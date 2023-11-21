@@ -7,3 +7,7 @@ Correct analysis of the data and successful prediction of the duration of the ca
 
 
 ![image](https://github.com/NoamBenBarak/big_data_final_proj/assets/151384160/b85c2d65-b5fa-454a-8ece-3e2b7721eb35)
+![image](https://github.com/NoamBenBarak/big_data_final_proj/assets/151384160/ccc8ca49-cc18-46f0-a292-d924c2f0bef0)
+![image](https://github.com/NoamBenBarak/big_data_final_proj/assets/151384160/294e07b6-59a5-4e51-8d64-2e3198218a5d)
+![image](https://github.com/NoamBenBarak/big_data_final_proj/assets/151384160/580f2cdb-4894-4c8b-bca2-27652949418a)
+
